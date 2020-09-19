@@ -25,10 +25,6 @@ Here are some ideas to get you started:
 
 ---
 
-$$\small\texttt{本}{}\huge\texttt{人}_{\small\texttt{的}^{\large\texttt{萌新}\small\texttt{QAQ}}}^{\large\texttt{是}{\small\texttt{刚学}\large\texttt{OI}}}\huge\texttt{不得}^{\large\texttt{反}{\small\texttt{驳}}}{\small\texttt{...}}$$
-
----
-
 # 博客园博客：
 [戳这里](https://www.cnblogs.com/Sam2007/)
 
