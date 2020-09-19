@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ---
 
-# 博客园博客：
-[戳这里](https://www.cnblogs.com/Sam2007/)
+[My blog (Simple Chinese)](https://www.cnblogs.com/Sam2007/)
 
 ![Bing每日一图](https://api.xygeng.cn/Bing/)
