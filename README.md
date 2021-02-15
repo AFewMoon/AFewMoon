@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 
 [My blog (Simple Chinese)](https://www.cnblogs.com/Sam2007/)
 
+[A Talking website](http://pbb.afewmoon.xyz)
+
 ![Bing每日一图](https://api.xygeng.cn/Bing/)
