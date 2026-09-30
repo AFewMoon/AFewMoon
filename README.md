@@ -26,8 +26,8 @@ UTC+08:00 · [afewmoon.cnblogs.com](https://afewmoon.cnblogs.com)
 
 | 项目 | 语言 | 许可 | 最后更新 |
 | --- | --- | --- | --- |
-| [railway-fare-calculation](https://github.com/AFewMoon/railway-fare-calculation) | JavaScript | GPL-3.0 | 2026-09-30 |
-| [the-New-World-of-Teyvat](https://github.com/AFewMoon/the-New-World-of-Teyvat) | Python | Other | 2026-09-29 |
+| [railway-fare-calculation](https://github.com/AFewMoon/railway-fare-calculation) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![GPL-3.0](https://img.shields.io/github/license/AFewMoon/railway-fare-calculation?style=flat-square) | ![updated](https://img.shields.io/github/last-commit/AFewMoon/railway-fare-calculation?label=updated&style=flat-square) |
+| [the-New-World-of-Teyvat](https://github.com/AFewMoon/the-New-World-of-Teyvat) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Other](https://img.shields.io/badge/license-Other-lightgrey?style=flat-square) | ![updated](https://img.shields.io/github/last-commit/AFewMoon/the-New-World-of-Teyvat?label=updated&style=flat-square) |
 
 ### railway-fare-calculation
 
