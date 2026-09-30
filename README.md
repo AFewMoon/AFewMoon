@@ -48,7 +48,7 @@ UTC+08:00 · [afewmoon.cnblogs.com](https://afewmoon.cnblogs.com)
 
 ## 近况
 
-2026 年 9 月的更新集中在上面的两个项目。2021 年的几个小工具（RandomPassword、PictureBed、Mouse-pointer）仍保留，未归档。
+2026 年 9 月的更新主要集中在上面的两个项目。2021 年的几个小工具仍保留，未归档。
 
 ## 概览
 
