@@ -16,6 +16,7 @@ UTC+08:00 · [afewmoon.cnblogs.com](https://afewmoon.cnblogs.com)
 ## 技术栈
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,6 +29,8 @@ UTC+08:00 · [afewmoon.cnblogs.com](https://afewmoon.cnblogs.com)
 | --- | --- | --- | --- |
 | [railway-fare-calculation](https://github.com/AFewMoon/railway-fare-calculation) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![GPL-3.0](https://img.shields.io/github/license/AFewMoon/railway-fare-calculation?style=flat-square) | ![updated](https://img.shields.io/github/last-commit/AFewMoon/railway-fare-calculation?label=updated&style=flat-square) |
 | [the-New-World-of-Teyvat](https://github.com/AFewMoon/the-New-World-of-Teyvat) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Other](https://img.shields.io/badge/license-Other-lightgrey?style=flat-square) | ![updated](https://img.shields.io/github/last-commit/AFewMoon/the-New-World-of-Teyvat?label=updated&style=flat-square) |
+| [RandomPassword](https://github.com/AFewMoon/RandomPassword) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MIT](https://img.shields.io/github/license/AFewMoon/RandomPassword?style=flat-square) | ![updated](https://img.shields.io/github/last-commit/AFewMoon/RandomPassword?label=updated&style=flat-square) |
+| [train-ticket-maker](https://github.com/AFewMoon/train-ticket-maker) | ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![MIT](https://img.shields.io/github/license/AFewMoon/train-ticket-maker?style=flat-square) | ![updated](https://img.shields.io/github/last-commit/AFewMoon/train-ticket-maker?label=updated&style=flat-square) |
 
 ### railway-fare-calculation
 
@@ -46,9 +49,23 @@ UTC+08:00 · [afewmoon.cnblogs.com](https://afewmoon.cnblogs.com)
 - 以文字资料为主体，Python 用于内容整理与一致性校验。
 - 非官方二次创作，与原权利方无隶属关系。
 
+### RandomPassword
+
+一个纯前端、零依赖、零构建的随机密码生成器。
+
+- 践行无构建、无依赖的前端理念，打开浏览器即可运行。
+- 适合需要快速生成安全密码的场景。
+
+### train-ticket-maker
+
+火车票 DIY 生成器（根据提供信息生成火车票用于纪念，本项目不含隐私信息纪念内容，非联网项目）。
+
+- 用于生成纪念版火车票。
+- 非联网项目，保障隐私安全。
+
 ## 近况
 
-2026 年 9 月的更新主要集中在上面的两个项目。2021 年的几个小工具仍保留，未归档。
+2026 年 10 月，除了持续维护票价计算与提瓦特世界构建项目外，近期整理并上线了一些零依赖的纯前端小工具和趣味项目。2021 年的几个小工具仍保留，未归档。
 
 ## 概览
 
